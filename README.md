@@ -11,13 +11,3 @@ Run this demo on a [local server](https://developer.mozilla.org/en-US/docs/Learn
 ## Credits
 
 - Images generated with [Midjourney](https://midjourney.com)
-
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
-
-
-
-
-
-
