@@ -1,12 +1,8 @@
 # SVG Clip-Path Text Animations
 
-Some experiments with on-scroll typography effects using SVG clip-paths.
+Some experiments with on-scroll typography effects using SVG.
 
 ![Image Title](https://tympanus.net/codrops/wp-content/uploads/2024/01/clippathtext.jpg)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=75256)
-
-[Demo](http://tympanus.net/Development/TextClipScroll/)
 
 ## Installation
 
@@ -20,10 +16,6 @@ Run this demo on a [local server](https://developer.mozilla.org/en-US/docs/Learn
 
 Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 
-## License
-[MIT](LICENSE)
-
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
 
 
 
